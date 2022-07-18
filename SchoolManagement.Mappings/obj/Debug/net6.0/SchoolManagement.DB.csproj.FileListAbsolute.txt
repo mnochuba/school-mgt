@@ -1,0 +1,15 @@
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\bin\Debug\net6.0\SchoolManagement.DB.deps.json
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\bin\Debug\net6.0\SchoolManagement.DB.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\bin\Debug\net6.0\SchoolManagement.DB.pdb
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.csproj.AssemblyReference.cache
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.AssemblyInfoInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.AssemblyInfo.cs
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.csproj.CoreCompileInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\refint\SchoolManagement.DB.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.pdb
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\ref\SchoolManagement.DB.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\bin\Debug\net6.0\SchoolManagement.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\bin\Debug\net6.0\SchoolManagement.Core.pdb
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Mappings\obj\Debug\net6.0\SchoolManagement.DB.csproj.CopyComplete

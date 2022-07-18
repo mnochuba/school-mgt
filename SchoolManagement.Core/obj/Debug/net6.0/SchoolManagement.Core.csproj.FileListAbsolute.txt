@@ -1,0 +1,12 @@
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\bin\Debug\net6.0\SchoolManagement.Core.deps.json
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\bin\Debug\net6.0\SchoolManagement.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\bin\Debug\net6.0\SchoolManagement.Core.pdb
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\SchoolManagement.Core.csproj.AssemblyReference.cache
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\SchoolManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\SchoolManagement.Core.AssemblyInfoInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\SchoolManagement.Core.AssemblyInfo.cs
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\SchoolManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\SchoolManagement.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\refint\SchoolManagement.Core.dll
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\SchoolManagement.Core.pdb
+C:\Users\MURPHY NNAMDI\source\repos\SchoolManagement\SchoolManagement.Core\obj\Debug\net6.0\ref\SchoolManagement.Core.dll
